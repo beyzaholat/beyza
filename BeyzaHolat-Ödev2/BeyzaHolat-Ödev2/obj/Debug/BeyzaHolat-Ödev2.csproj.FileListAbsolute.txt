@@ -1,0 +1,15 @@
+C:\Users\Beyza\source\repos\BeyzaHolat-Ödev2\BeyzaHolat-Ödev2\bin\Debug\BeyzaHolat-Ödev2.exe.config
+C:\Users\Beyza\source\repos\BeyzaHolat-Ödev2\BeyzaHolat-Ödev2\bin\Debug\BeyzaHolat-Ödev2.exe
+C:\Users\Beyza\source\repos\BeyzaHolat-Ödev2\BeyzaHolat-Ödev2\bin\Debug\BeyzaHolat-Ödev2.pdb
+C:\Users\Beyza\source\repos\BeyzaHolat-Ödev2\BeyzaHolat-Ödev2\obj\Debug\BeyzaHolat-Ödev2.csproj.AssemblyReference.cache
+C:\Users\Beyza\source\repos\BeyzaHolat-Ödev2\BeyzaHolat-Ödev2\obj\Debug\BeyzaHolat_Ödev2.Form1.resources
+C:\Users\Beyza\source\repos\BeyzaHolat-Ödev2\BeyzaHolat-Ödev2\obj\Debug\BeyzaHolat_Ödev2.Properties.Resources.resources
+C:\Users\Beyza\source\repos\BeyzaHolat-Ödev2\BeyzaHolat-Ödev2\obj\Debug\BeyzaHolat-Ödev2.csproj.GenerateResource.cache
+C:\Users\Beyza\source\repos\BeyzaHolat-Ödev2\BeyzaHolat-Ödev2\obj\Debug\BeyzaHolat-Ödev2.csproj.CoreCompileInputs.cache
+C:\Users\Beyza\source\repos\BeyzaHolat-Ödev2\BeyzaHolat-Ödev2\obj\Debug\BeyzaHolat-Ödev2.exe
+C:\Users\Beyza\source\repos\BeyzaHolat-Ödev2\BeyzaHolat-Ödev2\obj\Debug\BeyzaHolat-Ödev2.pdb
+C:\Users\Beyza\source\repos\BeyzaHolat-Ödev2\BeyzaHolat-Ödev2\obj\Debug\BeyzaHolat_Ödev2.Form2.resources
+C:\Users\Beyza\source\repos\BeyzaHolat-Ödev2\BeyzaHolat-Ödev2\obj\Debug\BeyzaHolat_Ödev2.Form3.resources
+C:\Users\Beyza\source\repos\BeyzaHolat-Ödev2\BeyzaHolat-Ödev2\obj\Debug\BeyzaHolat_Ödev2.Form4.resources
+C:\Users\Beyza\source\repos\BeyzaHolat-Ödev2\BeyzaHolat-Ödev2\obj\Debug\BeyzaHolat_Ödev2.Form5.resources
+C:\Users\Beyza\source\repos\BeyzaHolat-Ödev2\BeyzaHolat-Ödev2\obj\Debug\BeyzaHolat-Ödev2.csproj.SuggestedBindingRedirects.cache
